@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">a21</string>
+    <string name="register_latness">Registriere Verspätung</string>
+    <string name="reset_lateness">Verspätung zurücksetzen</string>
+    <string name="app_title">Verspätungzähler</string>
+    <string name="abends">Abends</string>
+    <string name="morgens">Morgens</string>
+    <string name="menue_alle">Alle Verspaetungen</string>
+    <string name="menue_morgens">Verspaetungen morgens</string>
+    <string name="menue_abends">Verspaetungen abends</string>
+    <string name="menue_export">Exportiere alle</string>
+    <string name="menue_zeige_textdatei">Zeige Textdatei</string>
+</resources>

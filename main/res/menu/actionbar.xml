@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:title="@string/menue_alle"
+        android:id="@+id/actionbarAlleVerspaetungen"/>
+    <item android:title="@string/menue_morgens"
+        android:id="@+id/actionbarVerspaetungenMorgens"/>
+    <item android:title="@string/menue_abends"
+        android:id="@+id/actionbarVerspaetungenAbends"/>
+    <item android:title="@string/menue_export"
+        android:id="@+id/actionbarExport"/>
+    <item android:title="@string/menue_zeige_textdatei"
+        android:id="@+id/actionbarShowTextFile"/>
+</menu>
